@@ -8,7 +8,7 @@ It consists of "main.py" module and 2 another modules
 
 ```
 ├── main.py               <- driver program file 
-├── Algorithms.py         <- module with algorithms methods 
+├── Algorithms.py         <- module with machine learning methods 
 ├── Data_Operations.py    <- module for data preparation
 └── Readme.md
 ```
