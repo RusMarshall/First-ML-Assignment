@@ -35,7 +35,7 @@ or download ```.zip``` file
 
 2) Open or download IDE like "pyCharm" after go to ```File -> open -> First-ML-Assignment``` folder
 
-3) Finally run 
+3) Finally run via CLI
 ```
 $ python3  main.py
 ```
