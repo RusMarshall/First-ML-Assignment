@@ -4,7 +4,7 @@ Developed by Ruslan Khadyev
 This is the first assignment of the Machine Learning course 
 
 # Structure of the project
-It consists of "main.py" module and 4 another modules "TaskN.py"
+It consists of "main.py" module and 2another modules
 
 ```
 ├── main.py               <- driver program file 
@@ -20,9 +20,10 @@ matplotlib
 pandas
 scipy
 ```
-You can esealy install all these libriraries via ```pip3```
+You can esealy install all these libriraries via ```pip3```:
 ```pip3 install {lib name}```
-If you do not have installed ```pip3``` install it at first via CLI ```install pip3```
+If you do not have installed ```pip3``` install it at first via CLI:
+```install pip3```
 
 # Run the project
 
@@ -38,4 +39,4 @@ or download ```.zip``` file
 ```
 $ python3  main.py
 ```
-After run three .txt files will created by main.py
+After run threeseveral plots will appear at the ```SciView```
