@@ -39,4 +39,4 @@ or download ```.zip``` file
 ```
 $ python3  main.py
 ```
-After run threeseveral plots will appear at the ```SciView```
+After run three several plots will appear at the ```SciView```
