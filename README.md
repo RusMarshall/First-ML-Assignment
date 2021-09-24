@@ -4,7 +4,7 @@ Developed by Ruslan Khadyev
 This is the first assignment of the Machine Learning course 
 
 # Structure of the project
-It consists of "main.py" module and 2another modules
+It consists of "main.py" module and 2 another modules
 
 ```
 ├── main.py               <- driver program file 
